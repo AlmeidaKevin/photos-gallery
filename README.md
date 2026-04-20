@@ -147,10 +147,11 @@ const fileName = `Almeida_${Date.now()}.jpeg`;
 
   <img src="https://github.com/user-attachments/assets/e43d828b-3226-4591-8554-d6325ed7f446" width="45%"/>
   <img src="https://github.com/user-attachments/assets/9925dcea-bd78-452c-94e2-0e5c7ddf60b6" width="45%"/>
+  <br><br/>
   <img src="https://github.com/user-attachments/assets/0678d845-3332-4c51-b223-b24d773ec4a5" width="45%"/>
   <img src="https://github.com/user-attachments/assets/8f2bb8e2-4fa3-420f-bab8-aef3488083f5" width="45%"/>
   <br><br/>
-  <img src="https://github.com/user-attachments/assets/2a551141-3297-4c3b-ac2e-ba26fc9c2d22" width="45%" height = "837.984"/>
+  <img src="https://github.com/user-attachments/assets/2a551141-3297-4c3b-ac2e-ba26fc9c2d22" width="45%"/>
   <img src="https://github.com/user-attachments/assets/0af0d8be-a793-4a94-b2ff-407d1c4b4f4f" width="45%"/>
   
   
