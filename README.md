@@ -1,5 +1,4 @@
-<img width="1200" height="1600" alt="WhatsApp Image 2026-04-19 at 20 09 27 (1)" src="https://github.com/user-attachments/assets/2f30291e-3459-4e6f-bc48-3bb7398073e6" />
-<img width="1200" height="1600" alt="WhatsApp Image 2026-04-19 at 20 09 27 (1)" src="https://github.com/user-attachments/assets/5c4f4324-811f-404c-a087-ccd2204e5cca" />
+
 # 📸 Photo Gallery App (Ionic + Angular + Capacitor)
 
 Aplicación móvil desarrollada con Ionic Framework que permite mostrar alertas, tomar fotografías, almacenarlas y visualizarlas dentro de la app.
@@ -154,7 +153,8 @@ const fileName = `Almeida_${Date.now()}.jpeg`;
   <img src="https://github.com/user-attachments/assets/8f2bb8e2-4fa3-420f-bab8-aef3488083f5" width="45%"/>
   <br><br/>
   
-  <img src="https://github.com/user-attachments/assets/559c41da-bb52-4ce0-a75d-3017ea70bcc9" width="45%"/>
+  <img width="45%" height="931.969" src="https://github.com/user-attachments/assets/559c41da-bb52-4ce0-a75d-3017ea70bcc9" width="45%"/>
+  
   <img src="https://github.com/user-attachments/assets/0af0d8be-a793-4a94-b2ff-407d1c4b4f4f" width="45%"/>
   
   
