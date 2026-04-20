@@ -153,7 +153,7 @@ const fileName = `Almeida_${Date.now()}.jpeg`;
   <img src="https://github.com/user-attachments/assets/8f2bb8e2-4fa3-420f-bab8-aef3488083f5" width="45%"/>
   <br><br/>
   
-  <img width="45%" height="931.969" src="https://github.com/user-attachments/assets/559c41da-bb52-4ce0-a75d-3017ea70bcc9" width="45%"/>
+  <img width="45%" height="837.984" src="https://github.com/user-attachments/assets/559c41da-bb52-4ce0-a75d-3017ea70bcc9"/>
   
   <img src="https://github.com/user-attachments/assets/0af0d8be-a793-4a94-b2ff-407d1c4b4f4f" width="45%"/>
   
