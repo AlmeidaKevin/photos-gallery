@@ -151,7 +151,8 @@ const fileName = `Almeida_${Date.now()}.jpeg`;
   <img src="https://github.com/user-attachments/assets/0678d845-3332-4c51-b223-b24d773ec4a5" width="45%"/>
   <img src="https://github.com/user-attachments/assets/8f2bb8e2-4fa3-420f-bab8-aef3488083f5" width="45%"/>
   <br><br/>
-  <img src="https://github.com/user-attachments/assets/2a551141-3297-4c3b-ac2e-ba26fc9c2d22" width="45%"/>
+  <img width="1200" height="1600" alt="WhatsApp Image 2026-04-19 at 20 09 27" src="https://github.com/user-attachments/assets/76bfefcb-0fb4-4b3a-ae20-5d8f3c3293d8" />
+
   <img src="https://github.com/user-attachments/assets/0af0d8be-a793-4a94-b2ff-407d1c4b4f4f" width="45%"/>
   
   
@@ -171,10 +172,9 @@ Las imágenes tomadas se muestran en formato grid dentro del Tab 3.
 
 <p align="center">
 
-  <img src="https://github.com/user-attachments/assets/0f492a2e-dc91-423c-a868-33d7139dbf98" width="45%"/>
-  <img src="https://github.com/user-attachments/assets/a66a1319-aa41-4ded-b9e9-d1053036697d" width="45%"/>
-  <img src="https://github.com/user-attachments/assets/23c700f8-98ae-42c5-b5fa-65fa3f061d0c" width="45%"/>
   <img src="https://github.com/user-attachments/assets/25ac0fcd-b0ab-47c4-bd81-cf3ce36a38f9" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/23c700f8-98ae-42c5-b5fa-65fa3f061d0c" width="45%"/>
+  
 
 
 </p>
